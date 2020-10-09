@@ -1,10 +1,9 @@
 const tools = [
     'GIT',
+    'ANDROID STUDIO',
     'DJANGO',
-    'REACTJS',
-    'REDUX',
-    'RAILS',
-    'EXPRESS'
+    'REACT NATIVE',
+    'REACTJS'
 ];
 
 export default tools;
