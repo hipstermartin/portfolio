@@ -18,6 +18,14 @@ const projects = [
     dark: false
   },
   {
+    title: "Indoor positioning system using BLE Beacons",
+    gitrepo: "https://github.com/hipstermartin/indoor-positioning-system",
+    content: 
+      "Developed end to end working prototype of Indoor positioning system using BLE Beacons by creating an app using Android studio.\
+       GPS does not work properly inside building therefore the need for indoor positioning arises. For providing the location-based services inside the building we have implemented the indoor positioning application in our project using the Bluetooth enabled beacons." ,
+    dark: false
+  },
+  {
     title: "Online Certificate generator for club events",
     gitrepo: "https://github.com/hipstermartin/CertificateGenerator",
     content: 
