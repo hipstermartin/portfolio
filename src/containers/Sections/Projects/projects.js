@@ -1,11 +1,11 @@
-const projects = [
+const projects = [ 
   {
-    title: "Cryptochat",
-    gitrepo: "https://github.com/hipstermartin/Cryptochat",
+    title: "Food wastage management",
+    gitrepo: "https://github.com/hipstermartin/food-wastage-management",
     content: 
-      "An end-to-end, RSA-2048 encrypted anonymous chat application.\
-       We had used Vue.js for coordinating the frontend functionality along with a Node.js backend using Socket.io for sending messages between users. \
-      The live application can be accessed through https://cryptochatz.herokuapp.com/", 
+      "We have designed a system to curb the wastage by managing the flow of food going waste by redirecting it from the restaurants to the needy people.\
+       For this we have different organizations like Restaurants, NGOs, Logistics who working in unison to achieve this goal.\
+       Restaurants raise requests for food collection, which are passed onto all NGOs within the network." ,
     dark: false
   },
   {
@@ -18,6 +18,18 @@ const projects = [
     dark: false
   },
   {
+    title: "IoT based Smart mirror",
+    gitrepo: "",
+    content: 
+      "The basic goal of this project is to create a product called smart mirror that meets the needs of\
+        common person and receive the general information like news, time, weather and also other needy\
+        information. This mirror is designed with the ability to collect this information during the preparation of a\
+        morning daily life in order to more efficiently and easily. To make this more interesting mirror, we can\
+        develop our products to include a variety of control methods, as well as music and other entertainment. In\
+        future we hope that the project based on smart glass will enhance a innovative and modern way of life" ,
+    dark: false
+  },
+  {
     title: "Indoor positioning system using BLE Beacons",
     gitrepo: "https://github.com/hipstermartin/indoor-positioning-system",
     content: 
@@ -26,7 +38,7 @@ const projects = [
     dark: false
   },
   {
-    title: "Online Certificate generator for club events",
+    title: "Automatic Certificate generator for club events",
     gitrepo: "https://github.com/hipstermartin/CertificateGenerator",
     content: 
       "A simple python based application where we can generate the certificates(e-copy) for the participants who attended a particular event.\
@@ -40,15 +52,6 @@ const projects = [
     content:
       "Online Leave Management System is a web-based application that is developed using PHP and MySQL. The objective of the Leave Management System is to develop a web-based application using which management of leave application and approval is done online.\
       The main objective of this Leave Management System is to manage the details of Leave, Employee details ,Attendance. It manages all the information about Leave, Leave Type, Attendance, Leave.",
-    dark: false
-  },
-  {
-    title: "Food wastage management",
-    gitrepo: "https://github.com/hipstermartin/food-wastage-management",
-    content: 
-      "We have designed a system to curb the wastage by managing the flow of food going waste by redirecting it from the restaurants to the needy people.\
-       For this we have different organizations like Restaurants, NGOs, Logistics who working in unison to achieve this goal.\
-       Restaurants raise requests for food collection, which are passed onto all NGOs within the network." ,
     dark: false
   }
 ];
