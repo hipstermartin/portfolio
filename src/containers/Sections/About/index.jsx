@@ -21,7 +21,6 @@ class About extends React.Component {
                         <br></br>
                         <br></br>
                         In addition to my programming skills, I am also in possession of good social and communication skills.
-                        <br></br>
                         On top of that, I am a dedicated worker who enjoys working in a team, making me a good addition to any working team I am put into.
                     </h6>
                     <div>
