@@ -3,8 +3,8 @@ const languages = [
     'PYTHON3',
     'JAVASCRIPT',
     'SQL',
-    'HTML',
-    'CSS'
+    'ReactJs and React-native',
+    'Web Developement'
 ];
 
 export default languages;
