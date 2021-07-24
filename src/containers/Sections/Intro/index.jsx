@@ -24,8 +24,7 @@ class Intro extends React.Component {
                         </Typing>
                         }
                     <h6 className="white-text">
-                        A motivated designer and developer seeking a challenging opportunity, that can help to enhance my skill set. <br></br>
-                        Currently a Computer Science undergraduate student at the VIT-AP University.
+                        Engineering professional with a Master of Technology (M.Tech.) in Software Engineering from VIT University, AP with a keen interest in Application Development
                     </h6>
                     <div style={{ marginTop: 30, marginBottom:100 }}>
                         <Button 
