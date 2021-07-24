@@ -11,9 +11,6 @@ const experiences = [
     {
       title:'Vice-President at CSI-VITAP', 
       period:'Jul 2018 - Oct 2020'
-    },
-    {
-      title:'Winner of UI Challenge 2020'
     }
 ];
 
