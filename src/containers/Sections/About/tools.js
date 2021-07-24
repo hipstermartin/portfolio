@@ -1,9 +1,10 @@
 const tools = [
     'GIT',
     'ANDROID STUDIO',
-    'DJANGO',
-    'REACT NATIVE',
-    'REACTJS'
+    'LINUX',
+    'Visual Studio',
+    'Eclipse IDE',
+    'Firebase'
 ];
 
 export default tools;
