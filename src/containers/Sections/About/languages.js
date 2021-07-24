@@ -1,10 +1,10 @@
 const languages = [
+    'JAVA',
     'PYTHON3',
     'JAVASCRIPT',
+    'SQL',
     'HTML',
-    'CSS',
-    'JAVA',
-    'SQL'
+    'CSS'
 ];
 
 export default languages;
