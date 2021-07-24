@@ -17,8 +17,7 @@ class About extends React.Component {
                 <div>
                     <h5 className="dark-blue-text title">ABOUT ME</h5>
                     <h6 className="dark-blue-text" style={{marginTop:20, marginBottom:40}}>
-                        I am a technology enthusiast and a learning developer. 
-                        I am trying to solve real-world problems using programming by developing simple applications.
+                        A technology enthusiast and a learning developer who is trying to solve real-world problems using programming by developing simple applications.
                         <br></br>
                         In addition to my programming skills, I am also in possession of good social and communication skills.
                         <br></br>
