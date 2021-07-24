@@ -3,7 +3,7 @@ const languages = [
     'PYTHON3',
     'JAVASCRIPT',
     'SQL',
-    'ReactJs and React-native',
+    'React',
     'Web Developement'
 ];
 
