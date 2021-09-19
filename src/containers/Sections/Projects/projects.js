@@ -3,8 +3,7 @@ const projects = [
     title: "Abstractive Text Summarization",
     gitrepo: "https://github.com/hipstermartin/Abstractive-Text-Summarization",
     content: 
-      "Implemented an efficient algorithm with a Three-Layer Stacked LSTM Encoder-Decoder model which was able to achieve an accuracy of 77.27 percent and a BLEU-4 score of 0.8800 on amazon food reviews data.\
-        Worked using deep learning algorithms (and BERT) for developing a summary of a few sentences that meaningfully capture the important context from given text input. ",
+      "Implemented an efficient algorithm with a Three-Layer Stacked LSTM Encoder-Decoder model which was able to achieve an accuracy of 77.27 percent and a BLEU-4 score of 0.8800 on amazon food reviews data. Worked using deep learning algorithms (and BERT) for developing a summary of a few sentences that meaningfully capture the important context from given text input. ",
     dark: false
   },
   {
