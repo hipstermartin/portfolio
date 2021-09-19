@@ -1,12 +1,17 @@
 const experiences = [
     {
-      title:'Mobile App development Intern at Thing Tronics Innovations Pvt.Ltd.', 
+      title:'Software Development Engineer Intern (EFS) at NetApp Inc', 
+      period:'Aug 2021 – Present',
+      content:'Currently working with the NFS team on the development of NAS protocols, like NFS and CIFS, also on simplicity projects for protocol access. Involved in development of NFS server stack software for the NetApp proprietary ONTAP operating system kernel.'
+    },
+    {
+      title:'Mobile App development Intern at Thing Tronics Pvt.Ltd.', 
       period:'May 2019 – Jun 2019',
-      content:'I worked within the Technical Team - developing a Indoor positioning system using BLE Beacons. We developed end to end working prototype of Indoor positioning system using BLE Beacons by creating an app using Android studio. As the GPS does not work properly inside building therefore the need for indoor positioning arises. For providing the location-based services inside the building we have implemented the indoor positioning application in our project using the Bluetooth enabled beacons.'
+      content:'Designed and implemented working prototype with multiple algorithms for indoor positioning system using BLE Beacons. Worked on reducing the algorithm precision error by 5% and increased accuracy by 9%. Deployed the algorithm in an android application and tested it in real-time.'
     },
     {
       title:'Cheif Advisor at CSI-VITAP', 
-      period:'Oct 2020 - Present'
+      period:'Oct 2020 - Sep 2021'
     },
     {
       title:'Vice-President at CSI-VITAP', 
