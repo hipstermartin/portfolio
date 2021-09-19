@@ -38,7 +38,7 @@ const projects = [
     title: "Automatic Certificate generator for club events",
     gitrepo: "https://github.com/hipstermartin/CertificateGenerator",
     content: 
-      "A simple python based application where we can generate the certificates(e-copy) for the participants who attended a particular event. Here the input of the students who attended event will be taken in the form of the excel document, where there the program searches for the name coloumn and there after prints all the certificates with the names on them.\",
+      "A simple python based application where we can generate the certificates(e-copy) for the participants who attended a particular event. Here the input of the students who attended event will be taken in the form of the excel document, where there the program searches for the name coloumn and there after prints all the certificates with the names on them.",
     dark: false
   },
   {
