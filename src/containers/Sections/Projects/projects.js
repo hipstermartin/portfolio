@@ -3,8 +3,8 @@ const projects = [
     title: "Abstractive Text Summarization",
     gitrepo: "https://github.com/hipstermartin/Abstractive-Text-Summarization",
     content: 
-      "• Implemented an efficient algorithm with a Three-Layer Stacked LSTM Encoder-Decoder model which was able to achieve an accuracy of 77.27 percent and a BLEU-4 score of 0.8800 on amazon food reviews data."
-       "• Worked using deep learning algorithms (and BERT) for developing a summary of a few sentences that meaningfully capture the important context from given text input. ",
+      "Implemented an efficient algorithm with a Three-Layer Stacked LSTM Encoder-Decoder model which was able to achieve an accuracy of 77.27 percent and a BLEU-4 score of 0.8800 on amazon food reviews data.\
+        Worked using deep learning algorithms (and BERT) for developing a summary of a few sentences that meaningfully capture the important context from given text input. ",
     dark: false
   },
   {
@@ -18,26 +18,26 @@ const projects = [
     title: "Face recognition based attendance system",
     gitrepo: "https://github.com/hipstermartin/Face-recognition-based-attendance-system",
     content: 
-      "• Designed face detection and tracking application’s workflow and infrastructure in an agile way for quick and efficient deployment.\
-       • Created a pipeline to capture and preprocess the face images, extract the facial features, perform similarity checks and track the faces using image processing and OpenCV algorithms.\
-       • Deployed and tested in real-time using stream lit.",
+      "Designed face detection and tracking application’s workflow and infrastructure in an agile way for quick and efficient deployment.\
+       Created a pipeline to capture and preprocess the face images, extract the facial features, perform similarity checks and track the faces using image processing and OpenCV algorithms.\
+       Deployed and tested in real-time using stream lit.",
     dark: false
   },
   {
     title: "Food wastage management (Foodo)",
     gitrepo: "https://github.com/hipstermartin/Foodo",
     content: 
-      "• Developed an Android application to curb food wastage by redirecting the wasted food from the restaurants to needy people.\
-       • Published the application in real-time and integrated it with the Google Maps API and tested with Payments API." ,
+      "Developed an Android application to curb food wastage by redirecting the wasted food from the restaurants to needy people.\
+       Published the application in real-time and integrated it with the Google Maps API and tested with Payments API." ,
     dark: false
   },
   {
     title: "Indoor positioning system using BLE Beacons",
     gitrepo: "https://github.com/hipstermartin/indoor-positioning-system",
     content: 
-      "• Designed and implemented working prototype with multiple algorithms for indoor positioning system using BLE Beacons.\
-       • Worked on reducing the algorithm precision error by 5% and increased accuracy by 9%.\
-       • Deployed the algorithm in an android application and tested it in real-time." ,
+      "Designed and implemented working prototype with multiple algorithms for indoor positioning system using BLE Beacons.\
+       Worked on reducing the algorithm precision error by 5% and increased accuracy by 9%.\
+       Deployed the algorithm in an android application and tested it in real-time." ,
     dark: false
   },
     {
@@ -45,15 +45,14 @@ const projects = [
     gitrepo: "https://github.com/hipstermartin/CertificateGenerator",
     content: 
       "A simple python based application where we can generate the certificates(e-copy) for the participants who attended a particular event.\
-      Here the input of the students who attended event will be taken in the form of the excel document, where there the program searches for the name coloumn and there after prints all the certificates with the names on them.\
-      Here the event name will be also given by the user as a input.",
+      Here the input of the students who attended event will be taken in the form of the excel document, where there the program searches for the name coloumn and there after prints all the certificates with the names on them.\",
     dark: false
   },
   {
     title: "Employee Leave Management System",
     gitrepo: "https://github.com/hipstermartin/Employee-leave-management-system",
     content:
-      "Online Leave Management System is a web-based application that is developed using PHP and MySQL. The objective of the Leave Management System is to develop a web-based application using which management of leave application and approval is done online.\
+      "Online Leave Management System is a web-based application that is developed using PHP and MySQL.\
       The main objective of this Leave Management System is to manage the details of Leave, Employee details ,Attendance. It manages all the information about Leave, Leave Type, Attendance, Leave.",
     dark: false
   },
