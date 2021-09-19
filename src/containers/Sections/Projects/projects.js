@@ -1,43 +1,46 @@
 const projects = [ 
   {
-    title: "Food wastage management",
-    gitrepo: "https://github.com/hipstermartin/food-wastage-management",
+    title: "Abstractive Text Summarization",
+    gitrepo: "https://github.com/hipstermartin/Abstractive-Text-Summarization",
     content: 
-      "We have designed a system to curb the wastage by managing the flow of food going waste by redirecting it from the restaurants to the needy people.\
-       For this we have different organizations like Restaurants, NGOs, Logistics who working in unison to achieve this goal.\
-       Restaurants raise requests for food collection, which are passed onto all NGOs within the network." ,
+      "• Implemented an efficient algorithm with a Three-Layer Stacked LSTM Encoder-Decoder model which was able to achieve an accuracy of 77.27 percent and a BLEU-4 score of 0.8800 on amazon food reviews data.\
+       • Worked using deep learning algorithms (and BERT) for developing a summary of a few sentences that meaningfully capture the important context from given text input. ",
+    dark: false
+  },
+  {
+    title: "VExchange ",
+    gitrepo: "https://github.com/hipstermartin/VExchange",
+    content: 
+      "VExchange is currently a developing application that is exclusively for the people of VIT-AP and the sole purpose of this project is to provide an android application exclusively for our college through which students can buy and sell old books, drafters, stationery, electronic goods, and much more. It may save time as there is no need to go to the market to buy /sell things, as this app is for campus students, they can easily share things among them.",
     dark: false
   },
   {
     title: "Face recognition based attendance system",
-    gitrepo: "",
+    gitrepo: "https://github.com/hipstermartin/Face-recognition-based-attendance-system",
     content: 
-      "The task of the proposed system is to capture the face of each student and to store it in the database for their attendance.\
-       The face of the student needs to be captured in such a manner that all the features of the students' faces need to be detected and recognized.\
-       There is no need for the manually take attendance in the class because the system records a video and through further processing steps the face is being recognized and the attendance database is updated",
+      "• Designed face detection and tracking application’s workflow and infrastructure in an agile way for quick and efficient deployment.\
+       • Created a pipeline to capture and preprocess the face images, extract the facial features, perform similarity checks and track the faces using image processing and OpenCV algorithms.\
+       • Deployed and tested in real-time using stream lit.",
     dark: false
   },
   {
-    title: "IoT based Smart mirror",
-    gitrepo: "",
+    title: "Food wastage management (Foodo)",
+    gitrepo: "https://github.com/hipstermartin/Foodo",
     content: 
-      "The basic goal of this project is to create a product called smart mirror that meets the needs of\
-        common person and receive the general information like news, time, weather and also other needy\
-        information. This mirror is designed with the ability to collect this information during the preparation of a\
-        morning daily life in order to more efficiently and easily. To make this more interesting mirror, we can\
-        develop our products to include a variety of control methods, as well as music and other entertainment. In\
-        future we hope that the project based on smart glass will enhance a innovative and modern way of life" ,
+      "• Developed an Android application to curb food wastage by redirecting the wasted food from the restaurants to needy people.\
+       • Published the application in real-time and integrated it with the Google Maps API and tested with Payments API." ,
     dark: false
   },
   {
     title: "Indoor positioning system using BLE Beacons",
     gitrepo: "https://github.com/hipstermartin/indoor-positioning-system",
     content: 
-      "Developed end to end working prototype of Indoor positioning system using BLE Beacons by creating an app using Android studio.\
-       GPS does not work properly inside building therefore the need for indoor positioning arises. For providing the location-based services inside the building we have implemented the indoor positioning application in our project using the Bluetooth enabled beacons." ,
+      "• Designed and implemented working prototype with multiple algorithms for indoor positioning system using BLE Beacons.\
+       • Worked on reducing the algorithm precision error by 5% and increased accuracy by 9%.\
+       • Deployed the algorithm in an android application and tested it in real-time." ,
     dark: false
   },
-  {
+    {
     title: "Automatic Certificate generator for club events",
     gitrepo: "https://github.com/hipstermartin/CertificateGenerator",
     content: 
@@ -52,6 +55,20 @@ const projects = [
     content:
       "Online Leave Management System is a web-based application that is developed using PHP and MySQL. The objective of the Leave Management System is to develop a web-based application using which management of leave application and approval is done online.\
       The main objective of this Leave Management System is to manage the details of Leave, Employee details ,Attendance. It manages all the information about Leave, Leave Type, Attendance, Leave.",
+    dark: false
+  },
+  {
+    title: "RaspberryPi3 based RetroGaming Center ",
+    gitrepo: "",
+    content: 
+      " RetroPie allows you to turn your Raspberry Pi PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch, and many other projects to enable you to play your favorite Arcade, home-console, and classic PC games with the minimum set-up." ,
+    dark: false
+  },
+  {
+    title: "IoT based Smart mirror",
+    gitrepo: "",
+    content: 
+      "This project was aimed to develop a smart mirror and a small operating system to power it. We have used raspberry pi for this. The device was to go beyond an ordinary mirror, to have a screen inside that you would be able to interact with by using IoT." ,
     dark: false
   }
 ];
