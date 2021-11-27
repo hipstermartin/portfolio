@@ -24,7 +24,7 @@ class Intro extends React.Component {
                         </Typing>
                         }
                     <h6 className="white-text">
-                        Engineering professional with a Master of Technology (M.Tech.) in Software Engineering from VIT University, AP with a keen interest in Application Development. Looking for opportunities to gain more knowledge about new technologies, apply my skills, and explore the unknown.
+                        Engineering professional with a keen interest in Application Development. Looking for opportunities to gain more knowledge about new technologies, apply my skills, and explore the unknown.
                     </h6>
                     <div style={{ marginTop: 30, marginBottom:100 }}>
                         <Button 
