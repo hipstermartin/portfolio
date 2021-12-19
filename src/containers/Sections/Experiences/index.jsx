@@ -13,7 +13,7 @@ class Experiences extends React.Component {
             >
                 <div>
                     <div>
-                        <h5 className="white-text title">ACHIEVEMENTS & EXPERIENCES</h5>
+                        <h5 className="white-text title">PROFESSIONAL EXPERIENCES</h5>
                     </div>
                     <div>
                         <Accordion/>
