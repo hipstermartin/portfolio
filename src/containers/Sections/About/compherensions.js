@@ -1,9 +1,9 @@
 const comprehensions = [
-    'FULLSTACK WEB DEVELOPMENT',
     'ALGORITHMS',
-    'DATA STRUCTURES',
-    'DATABASES',
-    'DEPLOYMENT'
+    'FULLSTACK WEB DEVELOPMENT',
+    'ANDROID APP DEVELOPMENT',
+    'MACHINE LEARNING',
+    'DISTRIBUTED SYSTEMS'
 ];
 
 export default comprehensions;
