@@ -24,7 +24,7 @@ class Intro extends React.Component {
                         </Typing>
                         }
                     <h6 className="white-text">
-                        Engineering professional with a keen interest in Application Development. Looking for opportunities to gain more knowledge about new technologies, apply my skills, and explore the unknown.
+                        Engineering professional with a strong interest in application development. Seeking opportunity to learn more about new technologies, utilize my expertise, and explore the unknown.
                     </h6>
                     <div style={{ marginTop: 30, marginBottom:100 }}>
                         <Button 
