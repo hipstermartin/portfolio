@@ -32,7 +32,7 @@ class Intro extends React.Component {
                             offset={-60}
                             duration={1000}
                         >
-                            <span className="bold light-blue-text">EXPLORE MORE</span>    
+                            <span className="bold light-blue-text">EXPLORE</span>    
                         </Button>
                         <Button 
                             light
