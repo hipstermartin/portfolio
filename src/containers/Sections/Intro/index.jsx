@@ -23,9 +23,6 @@ class Intro extends React.Component {
                             </h1>
                         </Typing>
                         }
-                    <h6 className="white-text">
-                        Engineering professional with a strong interest in application development. Seeking opportunity to learn more about new technologies, utilize my expertise, and explore the unknown.
-                    </h6>
                     <div style={{ marginTop: 30, marginBottom:100 }}>
                         <Button 
                             dark
@@ -35,14 +32,14 @@ class Intro extends React.Component {
                             offset={-60}
                             duration={1000}
                         >
-                            <span className="bold light-blue-text">EXPLORE ME</span>    
+                            <span className="bold light-blue-text">EXPLORE MORE</span>    
                         </Button>
                         <Button 
                             light
                             external
                             href="https://drive.google.com/file/d/1AflUOisangiO1KVLcKK5mdkb-6hfRx15/view?usp=sharing"
                         >
-                            <span className="bold dark-blue-text">SEE RESUME</span>
+                            <span className="bold dark-blue-text">RESUME</span>
                         </Button>                    
                     </div>
                 </div>
