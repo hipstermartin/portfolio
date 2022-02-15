@@ -37,7 +37,7 @@ class Intro extends React.Component {
                         <Button 
                             light
                             external
-                            href="https://drive.google.com/file/d/1AflUOisangiO1KVLcKK5mdkb-6hfRx15/view?usp=sharing"
+                            href="https://drive.google.com/drive/folders/1PgGOKUYhQE7rjPelXRhCyvSlm2XMk3gZ?usp=sharing"
                         >
                             <span className="bold dark-blue-text">RESUME</span>
                         </Button>                    
